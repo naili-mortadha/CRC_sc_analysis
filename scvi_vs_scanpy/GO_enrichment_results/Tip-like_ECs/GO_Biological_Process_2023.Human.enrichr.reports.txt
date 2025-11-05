@@ -1,0 +1,46 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2023	Subtelomeric Heterochromatin Formation (GO:0031509)	1/5	9.996772e-04	1.498960e-02	0	0	1.666000e+03	1.150886e+04	EZH2
+GO_Biological_Process_2023	Negative Regulation Of Retinoic Acid Receptor Signaling Pathway (GO:0048387)	1/6	1.199524e-03	1.498960e-02	0	0	1.332733e+03	8.963738e+03	EZH2
+GO_Biological_Process_2023	UDP-N-acetylglucosamine Biosynthetic Process (GO:0006048)	1/8	1.599128e-03	1.498960e-02	0	0	9.518571e+02	6.128339e+03	GNPNAT1
+GO_Biological_Process_2023	Constitutive Heterochromatin Formation (GO:0140719)	1/8	1.599128e-03	1.498960e-02	0	0	9.518571e+02	6.128339e+03	EZH2
+GO_Biological_Process_2023	Amino Sugar Biosynthetic Process (GO:0046349)	1/9	1.798886e-03	1.498960e-02	0	0	8.328333e+02	5.263996e+03	GNPNAT1
+GO_Biological_Process_2023	UDP-N-acetylglucosamine Metabolic Process (GO:0006047)	1/10	1.998613e-03	1.498960e-02	0	0	7.402593e+02	4.600935e+03	GNPNAT1
+GO_Biological_Process_2023	Regulation Of Retinoic Acid Receptor Signaling Pathway (GO:0048385)	1/12	2.397979e-03	1.541558e-02	0	0	6.056061e+02	3.653700e+03	EZH2
+GO_Biological_Process_2023	Nucleotide-Sugar Biosynthetic Process (GO:0009226)	1/15	2.996803e-03	1.685702e-02	0	0	4.757619e+02	2.764276e+03	GNPNAT1
+GO_Biological_Process_2023	Positive Regulation Of Cell Cycle Phase Transition (GO:1901989)	1/17	3.395869e-03	1.697935e-02	0	0	4.162500e+02	2.366463e+03	EZH2
+GO_Biological_Process_2023	Regulation Of Extracellular Matrix Organization (GO:1903053)	1/23	4.592351e-03	2.066558e-02	0	0	3.026364e+02	1.629201e+03	ZNF469
+GO_Biological_Process_2023	Heterochromatin Formation (GO:0031507)	1/32	6.385056e-03	2.612068e-02	0	0	2.146774e+02	1.084936e+03	EZH2
+GO_Biological_Process_2023	Heterochromatin Organization (GO:0070828)	1/39	7.777708e-03	2.663106e-02	0	0	1.750702e+02	8.502272e+02	EZH2
+GO_Biological_Process_2023	Positive Regulation Of Cell Cycle G1/S Phase Transition (GO:1902808)	1/40	7.976539e-03	2.663106e-02	0	0	1.705726e+02	8.240792e+02	EZH2
+GO_Biological_Process_2023	Negative Regulation Of Transcription By RNA Polymerase II (GO:0000122)	2/763	8.285220e-03	2.663106e-02	0	0	2.527595e+01	1.211548e+02	ZNF469;EZH2
+GO_Biological_Process_2023	Positive Regulation Of Epithelial To Mesenchymal Transition (GO:0010718)	1/47	9.367518e-03	2.810255e-02	0	0	1.445652e+02	6.751929e+02	EZH2
+GO_Biological_Process_2023	Negative Regulation Of Gene Expression, Epigenetic (GO:0045814)	1/51	1.016171e-02	2.857980e-02	0	0	1.329733e+02	6.102318e+02	EZH2
+GO_Biological_Process_2023	protein-DNA Complex Organization (GO:0071824)	1/60	1.194689e-02	3.135352e-02	0	0	1.126384e+02	4.986823e+02	EZH2
+GO_Biological_Process_2023	Telomere Organization (GO:0032200)	1/63	1.254141e-02	3.135352e-02	0	0	1.071720e+02	4.692763e+02	EZH2
+GO_Biological_Process_2023	Negative Regulation Of DNA-templated Transcription (GO:0045892)	2/1025	1.469133e-02	3.311782e-02	0	0	1.854643e+01	7.827517e+01	ZNF469;EZH2
+GO_Biological_Process_2023	Regulation Of Cell Cycle G1/S Phase Transition (GO:1902806)	1/74	1.471903e-02	3.311782e-02	0	0	9.097260e+01	3.837783e+02	EZH2
+GO_Biological_Process_2023	Epigenetic Regulation Of Gene Expression (GO:0040029)	1/83	1.649804e-02	3.374600e-02	0	0	8.095122e+01	3.322654e+02	EZH2
+GO_Biological_Process_2023	Regulation Of Epithelial To Mesenchymal Transition (GO:0010717)	1/83	1.649804e-02	3.374600e-02	0	0	8.095122e+01	3.322654e+02	EZH2
+GO_Biological_Process_2023	Positive Regulation Of MAP Kinase Activity (GO:0043406)	1/91	1.807736e-02	3.536876e-02	0	0	7.372593e+01	2.958691e+02	EZH2
+GO_Biological_Process_2023	Regulation Of Protein Serine/Threonine Kinase Activity (GO:0071900)	1/112	2.221403e-02	4.014870e-02	0	0	5.971471e+01	2.273358e+02	EZH2
+GO_Biological_Process_2023	Regulation Of MAP Kinase Activity (GO:0043405)	1/114	2.260732e-02	4.014870e-02	0	0	5.865192e+01	2.222604e+02	EZH2
+GO_Biological_Process_2023	Positive Regulation Of Protein Serine/Threonine Kinase Activity (GO:0071902)	1/117	2.319703e-02	4.014870e-02	0	0	5.712644e+01	2.150086e+02	EZH2
+GO_Biological_Process_2023	Positive Regulation Of Protein Kinase Activity (GO:0045860)	1/145	2.868809e-02	4.781349e-02	0	0	4.595370e+01	1.631942e+02	EZH2
+GO_Biological_Process_2023	Regulation Of Cellular Component Organization (GO:0051128)	1/153	3.025271e-02	4.862043e-02	0	0	4.351754e+01	1.522317e+02	ZNF469
+GO_Biological_Process_2023	Positive Regulation Of Hydrolase Activity (GO:0051345)	1/176	3.474045e-02	5.390760e-02	0	0	3.775429e+01	1.268488e+02	EZH2
+GO_Biological_Process_2023	Regulation Of GTPase Activity (GO:0043087)	1/214	4.212084e-02	6.318126e-02	0	0	3.095931e+01	9.805472e+01	EZH2
+GO_Biological_Process_2023	Positive Regulation Of GTPase Activity (GO:0043547)	1/234	4.598821e-02	6.675708e-02	0	0	2.827325e+01	8.706380e+01	EZH2
+GO_Biological_Process_2023	Negative Regulation Of Signal Transduction (GO:0009968)	1/267	5.234376e-02	7.100844e-02	0	0	2.472431e+01	7.293480e+01	EZH2
+GO_Biological_Process_2023	Chromatin Organization (GO:0006325)	1/268	5.253585e-02	7.100844e-02	0	0	2.463046e+01	7.256773e+01	EZH2
+GO_Biological_Process_2023	Regulation Of Transcription By RNA Polymerase II (GO:0006357)	2/2028	5.365082e-02	7.100844e-02	0	0	8.869694e+00	2.594615e+01	ZNF469;EZH2
+GO_Biological_Process_2023	Positive Regulation Of Cell Differentiation (GO:0045597)	1/283	5.541378e-02	7.124629e-02	0	0	2.330260e+01	6.741272e+01	EZH2
+GO_Biological_Process_2023	Positive Regulation Of MAPK Cascade (GO:0043410)	1/310	6.057752e-02	7.572190e-02	0	0	2.123732e+01	5.954588e+01	EZH2
+GO_Biological_Process_2023	Negative Regulation Of Gene Expression (GO:0010629)	1/336	6.552997e-02	7.969862e-02	0	0	1.956318e+01	5.331452e+01	EZH2
+GO_Biological_Process_2023	Positive Regulation Of Multicellular Organismal Process (GO:0051240)	1/387	7.518750e-02	8.903783e-02	0	0	1.693437e+01	4.382226e+01	EZH2
+GO_Biological_Process_2023	Regulation Of Nucleic Acid-Templated Transcription (GO:1903506)	1/452	8.738739e-02	9.915096e-02	0	0	1.444568e+01	3.520995e+01	EZH2
+GO_Biological_Process_2023	Negative Regulation Of Nucleic Acid-Templated Transcription (GO:1903507)	1/456	8.813419e-02	9.915096e-02	0	0	1.431575e+01	3.477145e+01	EZH2
+GO_Biological_Process_2023	Positive Regulation Of Cell Population Proliferation (GO:0008284)	1/483	9.316309e-02	1.022522e-01	0	0	1.349516e+01	3.202946e+01	EZH2
+GO_Biological_Process_2023	Positive Regulation Of Cellular Process (GO:0048522)	1/594	1.136193e-01	1.217350e-01	0	0	1.090669e+01	2.372098e+01	EZH2
+GO_Biological_Process_2023	Regulation Of Cell Population Proliferation (GO:0042127)	1/766	1.446311e-01	1.513581e-01	0	0	8.379521e+00	1.620238e+01	EZH2
+GO_Biological_Process_2023	Regulation Of Gene Expression (GO:0010468)	1/1127	2.070675e-01	2.117736e-01	0	0	5.586146e+00	8.796562e+00	EZH2
+GO_Biological_Process_2023	Regulation Of DNA-templated Transcription (GO:0006355)	1/1922	3.324743e-01	3.324743e-01	0	0	3.136387e+00	3.453767e+00	EZH2

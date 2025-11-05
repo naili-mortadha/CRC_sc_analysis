@@ -1,0 +1,6 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Nitrogen metabolism	1/17	7.625474e-03	2.576116e-02	0	0	1.560547e+02	7.609634e+02	CA7
+KEGG_2021_Human	Proximal tubule bicarbonate reclamation	1/23	1.030446e-02	2.576116e-02	0	0	1.134602e+02	5.191007e+02	SLC4A4
+KEGG_2021_Human	Taste transduction	1/86	3.804827e-02	4.498329e-02	0	0	2.927353e+01	9.569223e+01	SCN9A
+KEGG_2021_Human	Bile secretion	1/90	3.978620e-02	4.498329e-02	0	0	2.795225e+01	9.012462e+01	SLC4A4
+KEGG_2021_Human	Pancreatic secretion	1/102	4.498329e-02	4.498329e-02	0	0	2.461634e+01	7.634669e+01	SLC4A4

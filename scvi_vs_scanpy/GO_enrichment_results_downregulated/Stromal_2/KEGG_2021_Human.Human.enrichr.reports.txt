@@ -1,0 +1,12 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Glutathione metabolism	1/57	6.356904e-02	2.038836e-01	0	0	1.616964e+01	4.455753e+01	GSTM1
+KEGG_2021_Human	Cytosolic DNA-sensing pathway	1/63	7.003103e-02	2.038836e-01	0	0	1.460044e+01	3.881990e+01	TREX1
+KEGG_2021_Human	Acute myeloid leukemia	1/67	7.431529e-02	2.038836e-01	0	0	1.371281e+01	3.564561e+01	ZBTB16
+KEGG_2021_Human	Metabolism of xenobiotics by cytochrome P450	1/76	8.388598e-02	2.038836e-01	0	0	1.206182e+01	2.989277e+01	GSTM1
+KEGG_2021_Human	Drug metabolism	1/108	1.171544e-01	2.038836e-01	0	0	8.440952e+00	1.809962e+01	GSTM1
+KEGG_2021_Human	Pathways in cancer	2/531	1.235594e-01	2.038836e-01	0	0	3.501305e+00	7.321347e+00	GSTM1;ZBTB16
+KEGG_2021_Human	Lysosome	1/128	1.373569e-01	2.038836e-01	0	0	7.104510e+00	1.410368e+01	NAPSA
+KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	1.482790e-01	2.038836e-01	0	0	6.534585e+00	1.247230e+01	GSTM1
+KEGG_2021_Human	Hepatocellular carcinoma	1/168	1.764432e-01	2.156528e-01	0	0	5.391943e+00	9.353707e+00	GSTM1
+KEGG_2021_Human	Transcriptional misregulation in cancer	1/192	1.990757e-01	2.189833e-01	0	0	4.708710e+00	7.600188e+00	ZBTB16
+KEGG_2021_Human	Chemical carcinogenesis	1/239	2.416862e-01	2.416862e-01	0	0	3.769862e+00	5.353639e+00	GSTM1

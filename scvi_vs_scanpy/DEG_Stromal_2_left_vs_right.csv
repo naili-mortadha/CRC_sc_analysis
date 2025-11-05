@@ -1,0 +1,2 @@
+,proba_de,proba_not_de,bayes_factor,scale1,scale2,pseudocounts,delta,lfc_mean,lfc_median,lfc_std,lfc_min,lfc_max,raw_mean1,raw_mean2,non_zeros_proportion1,non_zeros_proportion2,raw_normalized_mean1,raw_normalized_mean2,is_de_fdr_0.05,comparison,group1,group2
+EIF1AY,0.9466,0.0534,2.8750656948042224,3.2840437e-06,1.37556435e-05,1e-07,0.5,-1.538796,-3.6372013,5.313585,-9.695734,14.7242,0.005680712,0.015664006,0.014814814814814814,0.038288288288288286,0.038394194,0.12586868,True,Left vs Right,Left,Right

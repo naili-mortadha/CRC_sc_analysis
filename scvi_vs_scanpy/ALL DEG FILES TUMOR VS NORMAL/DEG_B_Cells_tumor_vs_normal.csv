@@ -1,0 +1,2 @@
+,proba_de,proba_not_de,bayes_factor,scale1,scale2,pseudocounts,delta,lfc_mean,lfc_median,lfc_std,lfc_min,lfc_max,raw_mean1,raw_mean2,non_zeros_proportion1,non_zeros_proportion2,raw_normalized_mean1,raw_normalized_mean2,is_de_fdr_0.05,comparison,group1,group2
+AC233755.1,0.9541999999999999,0.04580000000000006,3.0365889941012614,2.4185469e-05,0.00010585953,1e-07,0.5,-4.5727615,-4.8750286,4.600532,-15.503499,10.359663,0.017995648,0.066517204,0.011821677823671852,0.04050093258726351,0.19021484,0.70753556,True,Tumor vs Normal,Tumor,Normal

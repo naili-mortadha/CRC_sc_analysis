@@ -1,0 +1,7 @@
+{
+  "gene_likelihood": "nb",
+  "lr": 0.0009222260218459214,
+  "n_hidden": 92,
+  "n_latent": 30,
+  "n_layers": 1
+}

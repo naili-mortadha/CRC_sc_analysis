@@ -1,0 +1,7 @@
+{
+  "gene_likelihood": "zinb",
+  "lr": 0.000649604665389717,
+  "n_hidden": 192,
+  "n_latent": 50,
+  "n_layers": 2
+}

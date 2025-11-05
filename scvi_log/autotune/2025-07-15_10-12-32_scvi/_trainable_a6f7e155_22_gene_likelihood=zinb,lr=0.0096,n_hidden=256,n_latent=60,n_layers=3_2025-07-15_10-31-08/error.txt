@@ -1,0 +1,113 @@
+Failure # 1 (occurred at 2025-07-15_10-34-08)
+[36mray::ImplicitFunc.train()[39m (pid=32398, ip=192.168.1.136, actor_id=f398c586b54d7de46614ce0701000000, repr=_trainable)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/ray/tune/trainable/trainable.py", line 330, in train
+    raise skipped from exception_cause(skipped)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/ray/air/_internal/util.py", line 107, in run
+    self._ret = self._target(*self._args, **self._kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/ray/tune/trainable/function_trainable.py", line 45, in <lambda>
+    training_func=lambda: self._trainable_func(self.config),
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/ray/tune/trainable/function_trainable.py", line 261, in _trainable_func
+    output = fn()
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/ray/tune/trainable/util.py", line 130, in inner
+    return trainable(config, **fn_kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/autotune/_manager.py", line 439, in _trainable
+    model.train(
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/model/base/_training_mixin.py", line 143, in train
+    return runner()
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/train/_trainrunner.py", line 98, in __call__
+    self.trainer.fit(self.training_plan, self.data_splitter)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/train/_trainer.py", line 220, in fit
+    super().fit(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 561, in fit
+    call._call_and_handle_interrupt(
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 48, in _call_and_handle_interrupt
+    return trainer_fn(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 599, in _fit_impl
+    self._run(model, ckpt_path=ckpt_path)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 1012, in _run
+    results = self._run_stage()
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/trainer/trainer.py", line 1056, in _run_stage
+    self.fit_loop.run()
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/fit_loop.py", line 216, in run
+    self.advance()
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/fit_loop.py", line 455, in advance
+    self.epoch_loop.run(self._data_fetcher)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/training_epoch_loop.py", line 152, in run
+    self.advance(data_fetcher)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/training_epoch_loop.py", line 344, in advance
+    batch_output = self.automatic_optimization.run(trainer.optimizers[0], batch_idx, kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 192, in run
+    self._optimizer_step(batch_idx, closure)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 270, in _optimizer_step
+    call._call_lightning_module_hook(
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 176, in _call_lightning_module_hook
+    output = fn(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/core/module.py", line 1328, in optimizer_step
+    optimizer.step(closure=optimizer_closure)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/core/optimizer.py", line 154, in step
+    step_output = self._strategy.optimizer_step(self._optimizer, closure, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/strategies/strategy.py", line 239, in optimizer_step
+    return self.precision_plugin.optimizer_step(optimizer, model=model, closure=closure, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/plugins/precision/precision.py", line 123, in optimizer_step
+    return optimizer.step(closure=closure, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/optim/optimizer.py", line 485, in wrapper
+    out = func(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/optim/optimizer.py", line 79, in _use_grad
+    ret = func(self, *args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/optim/adam.py", line 225, in step
+    loss = closure()
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/plugins/precision/precision.py", line 109, in _wrap_closure
+    closure_result = closure()
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 146, in __call__
+    self._result = self.closure(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 131, in closure
+    step_output = self._step_fn()
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/loops/optimization/automatic.py", line 319, in _training_step
+    training_step_output = call._call_strategy_hook(trainer, "training_step", *kwargs.values())
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/trainer/call.py", line 328, in _call_strategy_hook
+    output = fn(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/lightning/pytorch/strategies/strategy.py", line 391, in training_step
+    return self.lightning_module.training_step(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/train/_trainingplans.py", line 344, in training_step
+    _, _, scvi_loss = self.forward(batch, loss_kwargs=self.loss_kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/train/_trainingplans.py", line 278, in forward
+    return self.module(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/module/base/_decorators.py", line 32, in auto_transfer_args
+    return fn(self, *args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/module/base/_base_module.py", line 203, in forward
+    return _generic_forward(
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/module/base/_base_module.py", line 743, in _generic_forward
+    inference_outputs = module.inference(**inference_inputs, **inference_kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/module/base/_decorators.py", line 32, in auto_transfer_args
+    return fn(self, *args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/module/base/_base_module.py", line 307, in inference
+    return self._regular_inference(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/module/base/_decorators.py", line 32, in auto_transfer_args
+    return fn(self, *args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/module/_vae.py", line 325, in _regular_inference
+    qz, z = self.z_encoder(encoder_input, batch_index, *categorical_input)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1751, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1762, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/scvi/nn/_base_components.py", line 284, in forward
+    dist = Normal(q_m, q_v.sqrt())
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/distributions/normal.py", line 60, in __init__
+    super().__init__(batch_shape, validate_args=validate_args)
+  File "/home/sapien/anaconda3/envs/scCRC/lib/python3.9/site-packages/torch/distributions/distribution.py", line 72, in __init__
+    raise ValueError(
+ValueError: Expected parameter loc (Tensor of shape (128, 60)) of distribution Normal(loc: torch.Size([128, 60]), scale: torch.Size([128, 60])) to satisfy the constraint Real(), but found invalid values:
+tensor([[nan, nan, nan,  ..., nan, nan, nan],
+        [nan, nan, nan,  ..., nan, nan, nan],
+        [nan, nan, nan,  ..., nan, nan, nan],
+        ...,
+        [nan, nan, nan,  ..., nan, nan, nan],
+        [nan, nan, nan,  ..., nan, nan, nan],
+        [nan, nan, nan,  ..., nan, nan, nan]], device='cuda:0',
+       grad_fn=<AddmmBackward0>)

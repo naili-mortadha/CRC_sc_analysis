@@ -1,0 +1,5 @@
+Term,Num_Up_CellTypes,Num_Down_CellTypes,Up_CellTypes,Down_CellTypes
+Rheumatoid arthritis,3,1,Dendritic cells; Mature Enterocytes type 2; Enteric glia cells,Tip-like ECs
+Antigen processing and presentation,1,1,Enteric glia cells,Tip-like ECs
+Nervous System Development (GO:0007399),1,1,Dendritic cells,Enteric glia cells
+Regulation Of Vascular Associated Smooth Muscle Cell Migration (GO:1904752),1,1,CMS3,Plasma Cells

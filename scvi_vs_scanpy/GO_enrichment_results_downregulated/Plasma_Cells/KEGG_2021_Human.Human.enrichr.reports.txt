@@ -1,0 +1,20 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Pentose phosphate pathway	1/30	2.227283e-02	1.943970e-01	0	0	4.915271e+01	1.869960e+02	RBKS
+KEGG_2021_Human	Basal cell carcinoma	1/63	4.623783e-02	1.943970e-01	0	0	2.295276e+01	7.055581e+01	WNT1
+KEGG_2021_Human	Melanogenesis	1/101	7.315439e-02	1.943970e-01	0	0	1.420357e+01	3.714494e+01	WNT1
+KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	1.020786e-01	1.943970e-01	0	0	9.981388e+00	2.277765e+01	WNT1
+KEGG_2021_Human	Breast cancer	1/147	1.047889e-01	1.943970e-01	0	0	9.705969e+00	2.189480e+01	WNT1
+KEGG_2021_Human	Gastric cancer	1/149	1.061412e-01	1.943970e-01	0	0	9.573842e+00	2.147399e+01	WNT1
+KEGG_2021_Human	mTOR signaling pathway	1/154	1.095135e-01	1.943970e-01	0	0	9.258637e+00	2.047739e+01	WNT1
+KEGG_2021_Human	Cushing syndrome	1/155	1.101866e-01	1.943970e-01	0	0	9.198052e+00	2.028704e+01	WNT1
+KEGG_2021_Human	Hippo signaling pathway	1/163	1.155539e-01	1.943970e-01	0	0	8.740300e+00	1.886173e+01	WNT1
+KEGG_2021_Human	Wnt signaling pathway	1/166	1.175588e-01	1.943970e-01	0	0	8.580087e+00	1.836839e+01	WNT1
+KEGG_2021_Human	Hepatocellular carcinoma	1/168	1.188931e-01	1.943970e-01	0	0	8.476476e+00	1.805092e+01	WNT1
+KEGG_2021_Human	NOD-like receptor signaling pathway	1/181	1.275200e-01	1.943970e-01	0	0	7.859127e+00	1.618573e+01	NLRP6
+KEGG_2021_Human	Transcriptional misregulation in cancer	1/192	1.347581e-01	1.943970e-01	0	0	7.402393e+00	1.483642e+01	NR4A3
+KEGG_2021_Human	Proteoglycans in cancer	1/205	1.432399e-01	1.943970e-01	0	0	6.926120e+00	1.345907e+01	WNT1
+KEGG_2021_Human	Chemical carcinogenesis	1/239	1.650577e-01	2.090731e-01	0	0	5.926471e+00	1.067630e+01	WNT1
+KEGG_2021_Human	Human papillomavirus infection	1/331	2.215224e-01	2.630578e-01	0	0	4.254329e+00	6.412259e+00	WNT1
+KEGG_2021_Human	Alzheimer disease	1/369	2.437876e-01	2.724685e-01	0	0	3.807648e+00	5.374334e+00	WNT1
+KEGG_2021_Human	Pathways of neurodegeneration	1/475	3.027950e-01	3.196169e-01	0	0	2.940175e+00	3.512625e+00	WNT1
+KEGG_2021_Human	Pathways in cancer	1/531	3.322055e-01	3.322055e-01	0	0	2.621968e+00	2.889413e+00	WNT1

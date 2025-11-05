@@ -1,0 +1,22 @@
+Cell_Type,Total_DEGs,Upregulated,Downregulated,File,Status
+CD4+ T Cells,0,0,0,DEG_CD4+_T_Cells_tumor_vs_normal.csv,Loaded
+CMS3,19,10,9,DEG_CMS3_tumor_vs_normal.csv,Loaded
+Tip-like ECs,29,4,25,DEG_Tip-like_ECs_tumor_vs_normal.csv,Loaded
+CD8+ T cells,0,0,0,DEG_CD8+_T_cells_tumor_vs_normal.csv,Loaded
+B Cells,1,0,1,DEG_B_Cells_tumor_vs_normal.csv,Loaded
+Spp1+,146,22,124,DEG_Spp1+_tumor_vs_normal.csv,Loaded
+Mast cells,117,24,93,DEG_Mast_cells_tumor_vs_normal.csv,Loaded
+Stromal 2,31,8,23,DEG_Stromal_2_tumor_vs_normal.csv,Loaded
+CMS2,21,2,19,DEG_CMS2_tumor_vs_normal.csv,Loaded
+Regulatory T Cells,0,0,0,DEG_Regulatory_T_Cells_tumor_vs_normal.csv,Loaded
+Pericytes,78,26,52,DEG_Pericytes_tumor_vs_normal.csv,Loaded
+Dendritic cells,177,18,159,DEG_Dendritic_cells_tumor_vs_normal.csv,Loaded
+Gamma delta T cells,0,0,0,DEG_Gamma_delta_T_cells_tumor_vs_normal.csv,Loaded
+Helper 17 T cells,0,0,0,DEG_Helper_17_T_cells_tumor_vs_normal.csv,Loaded
+Mature Enterocytes type 2,176,61,115,DEG_Mature_Enterocytes_type_2_tumor_vs_normal.csv,Loaded
+NK cells,0,0,0,DEG_NK_cells_tumor_vs_normal.csv,Loaded
+Plasma Cells,17,2,15,DEG_Plasma_Cells_tumor_vs_normal.csv,Loaded
+Stromal 3,1505,910,595,DEG_Stromal_3_tumor_vs_normal.csv,Loaded
+Plasmacytoid Dendritic Cells,0,0,0,DEG_Plasmacytoid_Dendritic_Cells_tumor_vs_normal.csv,Not Found
+Follicular helper T cells,0,0,0,DEG_Follicular_helper_T_cells_tumor_vs_normal.csv,Loaded
+Enteric glia cells,112,62,50,DEG_Enteric_glia_cells_tumor_vs_normal.csv,Loaded

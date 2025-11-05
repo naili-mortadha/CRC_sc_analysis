@@ -1,0 +1,22 @@
+Cell_Type,Upregulated_Genes,Downregulated_Genes,Up_Pathways,Down_Pathways,Up_GO,Up_KEGG,Down_GO,Down_KEGG
+Stromal 3,910,595,90,2,62,28,2,0
+Enteric glia cells,62,50,120,5,99,21,5,0
+Mature Enterocytes type 2,61,115,46,0,40,6,0,0
+Pericytes,26,52,0,11,0,0,7,4
+Mast cells,24,93,8,0,6,2,0,0
+Spp1+,22,124,53,0,36,17,0,0
+Dendritic cells,18,159,164,0,147,17,0,0
+CMS3,10,9,115,27,115,0,22,5
+Stromal 2,8,23,29,2,29,0,2,0
+Tip-like ECs,4,25,34,10,28,6,2,8
+B Cells,0,0,0,0,0,0,0,0
+NK cells,0,0,0,0,0,0,0,0
+Follicular helper T cells,0,0,0,0,0,0,0,0
+Plasmacytoid Dendritic Cells,0,0,0,0,0,0,0,0
+Plasma Cells,0,15,0,37,0,0,37,0
+Gamma delta T cells,0,0,0,0,0,0,0,0
+CD8+ T cells,0,0,0,0,0,0,0,0
+Helper 17 T cells,0,0,0,0,0,0,0,0
+Regulatory T Cells,0,0,0,0,0,0,0,0
+CMS2,0,19,0,4,0,0,4,0
+CD4+ T Cells,0,0,0,0,0,0,0,0

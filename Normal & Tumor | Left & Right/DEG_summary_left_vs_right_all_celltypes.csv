@@ -1,0 +1,22 @@
+Cell_Type,Total_DEGs,Upregulated_in_Left,Downregulated_in_Left,Upregulated_in_Right,Downregulated_in_Right,Top_Up_in_Left_Gene,Top_Down_in_Left_Gene
+CD4+ T Cells,10,8,2,2,8,HSPA6,IGHA2
+CMS3,252,17,235,235,17,PRAC1,MTRNR2L8
+Tip-like ECs,1,1,0,0,1,HOXB13,NA
+CD8+ T cells,1,1,0,0,1,AC017002.1,NA
+B Cells,3,2,1,1,2,PRAC1,RPS26
+Spp1+,7,1,6,6,1,HLA-DQA2,URAD
+Mast cells,110,32,78,78,32,HLA-DQA2,PDE4C
+Stromal 2,2,1,1,1,1,HOXB13,MTRNR2L8
+CMS2,23,8,15,15,8,PRAC1,CLDN2
+Regulatory T Cells,1,0,1,1,0,NA,IGHA2
+Pericytes,6,2,4,4,2,PRAC1,URAD
+Dendritic cells,17,3,14,14,3,HLA-DQA2,FOLR3
+Gamma delta T cells,43,10,33,33,10,HLA-DRB5,CCL11
+Helper 17 T cells,14,8,6,6,8,RPS4Y1,DUOX2
+Mature Enterocytes type 2,62,12,50,50,12,HLA-G,URAD
+NK cells,3,0,3,3,0,NA,IGIP
+Plasma Cells,4,1,3,3,1,HLA-DQA2,URAD
+Stromal 3,785,224,561,561,224,XIST,RPS4Y1
+Plasmacytoid Dendritic Cells,39,9,30,30,9,RPS4Y1,ZNF765
+Follicular helper T cells,27,14,13,13,14,HSPA1A,IGLV1-47
+Enteric glia cells,75,4,71,71,4,PRAC1,CALB2

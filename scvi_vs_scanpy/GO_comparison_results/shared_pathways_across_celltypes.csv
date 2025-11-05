@@ -1,0 +1,105 @@
+Term,Num_Cell_Types,Direction,Cell_Types
+B Cell Receptor Signaling Pathway (GO:0050853),5,Upregulated,Spp1+; Mast cells; Stromal 2; Dendritic cells; Mature Enterocytes type 2
+Retina Homeostasis (GO:0001895),5,Upregulated,Spp1+; Mast cells; Stromal 2; Dendritic cells; Mature Enterocytes type 2
+Cellular Response To Chemokine (GO:1990869),4,Upregulated,Spp1+; Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Negative Regulation Of Execution Phase Of Apoptosis (GO:1900118),4,Downregulated,Tip-like ECs; Stromal 2; CMS2; Pericytes
+Granulocyte Chemotaxis (GO:0071621),4,Upregulated,Spp1+; Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Antimicrobial Humoral Response (GO:0019730),4,Upregulated,Spp1+; Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Viral protein interaction with cytokine and cytokine receptor,4,Upregulated,Spp1+; Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Antimicrobial Humoral Immune Response Mediated By Antimicrobial Peptide (GO:0061844),4,Upregulated,Spp1+; Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Chemokine-Mediated Signaling Pathway (GO:0070098),4,Upregulated,Spp1+; Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Neutrophil Chemotaxis (GO:0030593),4,Upregulated,Spp1+; Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Neutrophil Migration (GO:1990266),4,Upregulated,Spp1+; Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Antigen Receptor-Mediated Signaling Pathway (GO:0050851),4,Upregulated,Spp1+; Mast cells; Dendritic cells; Mature Enterocytes type 2
+NF-kappa B signaling pathway,3,Upregulated,Spp1+; Dendritic cells; Enteric glia cells
+Regulation Of Execution Phase Of Apoptosis (GO:1900117),3,Downregulated,Tip-like ECs; Stromal 2; CMS2
+Inflammatory Response (GO:0006954),3,Upregulated,Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Negative Regulation Of DNA-templated Transcription (GO:0045892),3,Upregulated,CMS3; Tip-like ECs; Stromal 3
+Oxidative Phosphorylation (GO:0006119),3,Upregulated,Spp1+; Stromal 2; Enteric glia cells
+Rheumatoid arthritis,3,Upregulated,Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+IL-17 signaling pathway,3,Upregulated,Dendritic cells; Mature Enterocytes type 2; Enteric glia cells
+Amoebiasis,3,Upregulated,Dendritic cells; Stromal 3; Enteric glia cells
+Proton Motive Force-Driven Mitochondrial ATP Synthesis (GO:0042776),3,Upregulated,Spp1+; Stromal 2; Enteric glia cells
+NADH Dehydrogenase Complex Assembly (GO:0010257),3,Upregulated,Spp1+; Stromal 2; Enteric glia cells
+Mitochondrial Respiratory Chain Complex I Assembly (GO:0032981),3,Upregulated,Spp1+; Stromal 2; Enteric glia cells
+Regulation Of Angiogenesis (GO:0045765),3,Upregulated,Dendritic cells; Stromal 3; Enteric glia cells
+Aerobic Respiration (GO:0009060),3,Upregulated,Spp1+; Stromal 2; Enteric glia cells
+Proton Motive Force-Driven ATP Synthesis (GO:0015986),3,Upregulated,Spp1+; Stromal 2; Enteric glia cells
+Macromolecule Biosynthetic Process (GO:0009059),3,Upregulated,Spp1+; Mast cells; Mature Enterocytes type 2
+"Mitochondrial Electron Transport, NADH To Ubiquinone (GO:0006120)",3,Upregulated,Spp1+; Stromal 2; Enteric glia cells
+Retrograde endocannabinoid signaling,2,Upregulated,Spp1+; Enteric glia cells
+Pathways in cancer,2,Upregulated,Dendritic cells; Stromal 3
+Cellular Response To Type II Interferon (GO:0071346),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Cellular Response To Lipopolysaccharide (GO:0071222),2,Upregulated,Dendritic cells; Enteric glia cells
+Negative Regulation Of Nucleic Acid-Templated Transcription (GO:1903507),2,Upregulated,CMS3; Stromal 3
+Chemokine signaling pathway,2,Upregulated,Spp1+; Enteric glia cells
+Positive Regulation Of Lymphocyte Migration (GO:2000403),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Regulation Of Neutrophil Chemotaxis (GO:0090022),2,Upregulated,Dendritic cells; Enteric glia cells
+Non-alcoholic fatty liver disease,2,Upregulated,Spp1+; Enteric glia cells
+Coronavirus disease,2,Upregulated,Mast cells; Mature Enterocytes type 2
+Positive Regulation Of Osteoblast Differentiation (GO:0045669),2,Upregulated,CMS3; Stromal 3
+Odontogenesis (GO:0042476),2,Upregulated,CMS3; Enteric glia cells
+Response To Type II Interferon (GO:0034341),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Cellular Response To Tumor Necrosis Factor (GO:0071356),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Lymphocyte Chemotaxis (GO:0048247),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+"Parathyroid hormone synthesis, secretion and action",2,Upregulated,Tip-like ECs; Stromal 3
+TNF signaling pathway,2,Upregulated,Dendritic cells; Enteric glia cells
+Cellular Response To Molecule Of Bacterial Origin (GO:0071219),2,Upregulated,Dendritic cells; Enteric glia cells
+Positive Regulation Of MAP Kinase Activity (GO:0043406),2,Upregulated,Tip-like ECs; Stromal 3
+Cytoplasmic Translation (GO:0002181),2,Upregulated,Spp1+; Mast cells
+Hepoxilin Metabolic Process (GO:0051121),2,Downregulated,Pericytes; Stromal 3
+Metal Ion Transport (GO:0030001),2,Downregulated,CMS3; CMS2
+Cellular Response To Lipid (GO:0071396),2,Upregulated,Dendritic cells; Enteric glia cells
+Positive Regulation Of Macromolecule Metabolic Process (GO:0010604),2,Upregulated,CMS3; Enteric glia cells
+Lymphocyte Migration (GO:0072676),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Regulation Of Extracellular Matrix Organization (GO:1903053),2,Upregulated,Tip-like ECs; Stromal 2
+Regulation Of Protein Ubiquitination (GO:0031396),2,Upregulated,Stromal 3; Enteric glia cells
+Aerobic Electron Transport Chain (GO:0019646),2,Upregulated,Spp1+; Stromal 2
+Peptide Biosynthetic Process (GO:0043043),2,Upregulated,Spp1+; Mast cells
+Oxidative phosphorylation,2,Upregulated,Spp1+; Enteric glia cells
+Mitochondrial ATP Synthesis Coupled Electron Transport (GO:0042775),2,Upregulated,Spp1+; Stromal 2
+Cellular Respiration (GO:0045333),2,Upregulated,Spp1+; Enteric glia cells
+Mitochondrial Respiratory Chain Complex Assembly (GO:0033108),2,Upregulated,Spp1+; Enteric glia cells
+Positive Regulation Of Protein Serine/Threonine Kinase Activity (GO:0071902),2,Upregulated,Tip-like ECs; Stromal 3
+Regulation Of MAP Kinase Activity (GO:0043405),2,Upregulated,Tip-like ECs; Stromal 3
+Monocyte Chemotaxis (GO:0002548),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Mononuclear Cell Differentiation (GO:1903131),2,Upregulated,CMS3; Dendritic cells
+Regulation Of Epithelial To Mesenchymal Transition (GO:0010717),2,Upregulated,Tip-like ECs; Stromal 3
+Ribosome,2,Upregulated,Spp1+; Mast cells
+Positive Regulation Of Neutrophil Migration (GO:1902624),2,Upregulated,Dendritic cells; Enteric glia cells
+Positive Regulation Of Respiratory Burst (GO:0060267),2,Upregulated,Spp1+; Mature Enterocytes type 2
+Positive Regulation Of Epithelial To Mesenchymal Transition (GO:0010718),2,Upregulated,Tip-like ECs; Stromal 3
+Negative Regulation Of Transcription By RNA Polymerase II (GO:0000122),2,Upregulated,Tip-like ECs; Stromal 3
+Regulation Of Respiratory Burst (GO:0060263),2,Upregulated,Spp1+; Mature Enterocytes type 2
+Regulation Of Cell Population Proliferation (GO:0042127),2,Upregulated,Dendritic cells; Stromal 3
+Regulation Of T Cell Migration (GO:2000404),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Response To Interleukin-1 (GO:0070555),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Positive Regulation Of Morphogenesis Of An Epithelium (GO:1905332),2,Upregulated,CMS3; Dendritic cells
+Prion disease,2,Upregulated,Spp1+; Enteric glia cells
+Response To Lipopolysaccharide (GO:0032496),2,Upregulated,Dendritic cells; Enteric glia cells
+Epithelial cell signaling in Helicobacter pylori infection,2,Upregulated,Dendritic cells; Enteric glia cells
+Legionellosis,2,Upregulated,Dendritic cells; Enteric glia cells
+Positive Regulation Of Acute Inflammatory Response (GO:0002675),2,Upregulated,Dendritic cells; Enteric glia cells
+Cell Migration Involved In Sprouting Angiogenesis (GO:0002042),2,Upregulated,Dendritic cells; Stromal 3
+Cellular Response To Interleukin-1 (GO:0071347),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Blood Vessel Endothelial Cell Migration (GO:0043534),2,Upregulated,Dendritic cells; Stromal 3
+Artery Development (GO:0060840),2,Upregulated,Dendritic cells; Stromal 3
+Regulation Of Establishment Of Protein Localization To Mitochondrion (GO:1903747),2,Upregulated,Spp1+; Stromal 2
+Kaposi sarcoma-associated herpesvirus infection,2,Upregulated,Dendritic cells; Enteric glia cells
+Regulation Of Protein Targeting (GO:1903533),2,Upregulated,Spp1+; Stromal 2
+Positive Regulation Of T Cell Migration (GO:2000406),2,Upregulated,Mature Enterocytes type 2; Enteric glia cells
+Cellular Response To Oxygen-Containing Compound (GO:1901701),2,Upregulated,Dendritic cells; Enteric glia cells
+Positive Regulation Of Neutrophil Chemotaxis (GO:0090023),2,Upregulated,Dendritic cells; Enteric glia cells
+Positive Regulation Of Granulocyte Chemotaxis (GO:0071624),2,Upregulated,Dendritic cells; Enteric glia cells
+Positive Regulation Of Vascular Endothelial Growth Factor Production (GO:0010575),2,Upregulated,Dendritic cells; Enteric glia cells
+Cytokine-Mediated Signaling Pathway (GO:0019221),2,Upregulated,Dendritic cells; Enteric glia cells
+Cellular Response To Growth Factor Stimulus (GO:0071363),2,Upregulated,Dendritic cells; Stromal 3
+Positive Regulation Of Fever Generation (GO:0031622),2,Upregulated,Dendritic cells; Enteric glia cells
+Positive Regulation Of p38MAPK Cascade (GO:1900745),2,Upregulated,CMS3; Dendritic cells
+Negative Regulation Of Transforming Growth Factor Beta Receptor Signaling Pathway (GO:0030512),2,Upregulated,Mature Enterocytes type 2; Stromal 3
+Cytokine-cytokine receptor interaction,2,Upregulated,Dendritic cells; Enteric glia cells
+Human cytomegalovirus infection,2,Upregulated,Dendritic cells; Stromal 3
+Cellular Response To Steroid Hormone Stimulus (GO:0071383),2,Upregulated,CMS3; Enteric glia cells
+Negative Regulation Of Programmed Cell Death (GO:0043069),2,Upregulated,CMS3; Enteric glia cells
+Regulation Of Branching Involved In Ureteric Bud Morphogenesis (GO:0090189),2,Upregulated,CMS3; Dendritic cells
+Hepoxilin Biosynthetic Process (GO:0051122),2,Downregulated,Pericytes; Stromal 3

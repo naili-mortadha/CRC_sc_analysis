@@ -1,0 +1,62 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2023	Negative Regulation Of Execution Phase Of Apoptosis (GO:1900118)	2/19	2.137593e-04	1.048625e-02	0	0	1.118207e+02	9.449589e+02	MTRNR2L12;MTRNR2L8
+GO_Biological_Process_2023	Regulation Of Execution Phase Of Apoptosis (GO:1900117)	2/24	3.438115e-04	1.048625e-02	0	0	8.638528e+01	6.889587e+02	MTRNR2L12;MTRNR2L8
+GO_Biological_Process_2023	Hepoxilin Metabolic Process (GO:0051121)	1/7	8.023390e-03	9.971862e-02	0	0	1.512955e+02	7.300602e+02	GSTM1
+GO_Biological_Process_2023	Hepoxilin Biosynthetic Process (GO:0051122)	1/7	8.023390e-03	9.971862e-02	0	0	1.512955e+02	7.300602e+02	GSTM1
+GO_Biological_Process_2023	Positive Regulation Of Chondrocyte Differentiation (GO:0032332)	1/10	1.144312e-02	9.971862e-02	0	0	1.008485e+02	4.508297e+02	ZBTB16
+GO_Biological_Process_2023	Surfactant Homeostasis (GO:0043129)	1/10	1.144312e-02	9.971862e-02	0	0	1.008485e+02	4.508297e+02	NAPSA
+GO_Biological_Process_2023	Mesonephros Development (GO:0001823)	1/10	1.144312e-02	9.971862e-02	0	0	1.008485e+02	4.508297e+02	ZBTB16
+GO_Biological_Process_2023	Prostanoid Metabolic Process (GO:0006692)	1/16	1.824879e-02	1.058246e-01	0	0	6.049091e+01	2.421848e+02	GSTM1
+GO_Biological_Process_2023	Regulation Of Cartilage Development (GO:0061035)	1/17	1.937870e-02	1.058246e-01	0	0	5.670739e+01	2.236302e+02	ZBTB16
+GO_Biological_Process_2023	Positive Regulation Of Cartilage Development (GO:0061036)	1/17	1.937870e-02	1.058246e-01	0	0	5.670739e+01	2.236302e+02	ZBTB16
+GO_Biological_Process_2023	Xenobiotic Catabolic Process (GO:0042178)	1/19	2.163480e-02	1.058246e-01	0	0	5.040152e+01	1.932118e+02	GSTM1
+GO_Biological_Process_2023	DNA Catabolic Process (GO:0006308)	1/19	2.163480e-02	1.058246e-01	0	0	5.040152e+01	1.932118e+02	TREX1
+GO_Biological_Process_2023	Negative Regulation Of Myeloid Cell Differentiation (GO:0045638)	1/22	2.500964e-02	1.058246e-01	0	0	4.319481e+01	1.593238e+02	ZBTB16
+GO_Biological_Process_2023	Mismatch Repair (GO:0006298)	1/25	2.837334e-02	1.058246e-01	0	0	3.778977e+01	1.346187e+02	TREX1
+GO_Biological_Process_2023	Regulation Of Chondrocyte Differentiation (GO:0032330)	1/25	2.837334e-02	1.058246e-01	0	0	3.778977e+01	1.346187e+02	ZBTB16
+GO_Biological_Process_2023	Long-Chain Fatty Acid Biosynthetic Process (GO:0042759)	1/25	2.837334e-02	1.058246e-01	0	0	3.778977e+01	1.346187e+02	GSTM1
+GO_Biological_Process_2023	Regulation Of Myeloid Cell Differentiation (GO:0045637)	1/26	2.949210e-02	1.058246e-01	0	0	3.627636e+01	1.278246e+02	ZBTB16
+GO_Biological_Process_2023	Prostaglandin Metabolic Process (GO:0006693)	1/30	3.395486e-02	1.090130e-01	0	0	3.126646e+01	1.057658e+02	GSTM1
+GO_Biological_Process_2023	Nucleic Acid Metabolic Process (GO:0090304)	1/30	3.395486e-02	1.090130e-01	0	0	3.126646e+01	1.057658e+02	TREX1
+GO_Biological_Process_2023	Membrane Protein Proteolysis (GO:0033619)	1/34	3.839798e-02	1.171138e-01	0	0	2.747107e+01	8.954885e+01	NAPSA
+GO_Biological_Process_2023	Regulation Of Ossification (GO:0030278)	1/37	4.171748e-02	1.185183e-01	0	0	2.517803e+01	7.998645e+01	ZBTB16
+GO_Biological_Process_2023	Connective Tissue Development (GO:0061448)	1/38	4.282155e-02	1.185183e-01	0	0	2.449631e+01	7.718088e+01	ZBTB16
+GO_Biological_Process_2023	Positive Regulation Of Ossification (GO:0045778)	1/41	4.612645e-02	1.185183e-01	0	0	2.265568e+01	6.969723e+01	ZBTB16
+GO_Biological_Process_2023	DNA Recombination (GO:0006310)	1/42	4.722565e-02	1.185183e-01	0	0	2.210200e+01	6.747337e+01	TREX1
+GO_Biological_Process_2023	Nucleobase-Containing Compound Catabolic Process (GO:0034655)	1/44	4.942043e-02	1.185183e-01	0	0	2.107188e+01	6.337140e+01	TREX1
+GO_Biological_Process_2023	Negative Regulation Of Response To Biotic Stimulus (GO:0002832)	1/45	5.051600e-02	1.185183e-01	0	0	2.059194e+01	6.147653e+01	TREX1
+GO_Biological_Process_2023	Positive Regulation Of Fat Cell Differentiation (GO:0045600)	1/50	5.597578e-02	1.223182e-01	0	0	1.848609e+01	5.329236e+01	ZBTB16
+GO_Biological_Process_2023	Cartilage Development (GO:0051216)	1/52	5.815127e-02	1.223182e-01	0	0	1.775936e+01	5.052018e+01	ZBTB16
+GO_Biological_Process_2023	Negative Regulation Of Innate Immune Response (GO:0045824)	1/52	5.815127e-02	1.223182e-01	0	0	1.775936e+01	5.052018e+01	TREX1
+GO_Biological_Process_2023	Myeloid Cell Differentiation (GO:0030099)	1/57	6.356904e-02	1.292571e-01	0	0	1.616964e+01	4.455753e+01	ZBTB16
+GO_Biological_Process_2023	Negative Regulation Of Immune Response (GO:0050777)	1/66	7.324600e-02	1.441292e-01	0	0	1.392448e+01	3.639763e+01	TREX1
+GO_Biological_Process_2023	Sulfur Compound Biosynthetic Process (GO:0044272)	1/70	7.751610e-02	1.443561e-01	0	0	1.311462e+01	3.353763e+01	GSTM1
+GO_Biological_Process_2023	Kidney Development (GO:0001822)	1/71	7.858068e-02	1.443561e-01	0	0	1.292662e+01	3.288054e+01	ZBTB16
+GO_Biological_Process_2023	DNA Replication (GO:0006260)	1/73	8.070632e-02	1.443561e-01	0	0	1.256629e+01	3.162857e+01	TREX1
+GO_Biological_Process_2023	Regulation Of Fat Cell Differentiation (GO:0045598)	1/75	8.282726e-02	1.443561e-01	0	0	1.222543e+01	3.045352e+01	ZBTB16
+GO_Biological_Process_2023	Regulation Of Innate Immune Response (GO:0045088)	1/78	8.599991e-02	1.457221e-01	0	0	1.174734e+01	2.882104e+01	TREX1
+GO_Biological_Process_2023	Macromolecule Catabolic Process (GO:0009057)	1/85	9.336197e-02	1.539211e-01	0	0	1.076461e+01	2.552581e+01	TREX1
+GO_Biological_Process_2023	Negative Regulation Of Apoptotic Process (GO:0043066)	2/482	1.052389e-01	1.689361e-01	0	0	3.868452e+00	8.709908e+00	MTRNR2L12;MTRNR2L8
+GO_Biological_Process_2023	Hemopoiesis (GO:0030097)	1/101	1.099772e-01	1.720156e-01	0	0	9.035000e+00	1.994461e+01	ZBTB16
+GO_Biological_Process_2023	Negative Regulation Of Defense Response (GO:0031348)	1/112	1.212307e-01	1.848768e-01	0	0	8.135135e+00	1.716562e+01	TREX1
+GO_Biological_Process_2023	Organonitrogen Compound Biosynthetic Process (GO:1901566)	1/123	1.323481e-01	1.969081e-01	0	0	7.397541e+00	1.496019e+01	GSTM1
+GO_Biological_Process_2023	Negative Regulation Of Response To External Stimulus (GO:0032102)	1/146	1.551604e-01	2.242718e-01	0	0	6.216928e+00	1.158398e+01	TREX1
+GO_Biological_Process_2023	Skeletal System Development (GO:0001501)	1/149	1.580933e-01	2.242718e-01	0	0	6.089988e+00	1.123341e+01	ZBTB16
+GO_Biological_Process_2023	Negative Regulation Of Cell Differentiation (GO:0045596)	1/207	2.129176e-01	2.951812e-01	0	0	4.362533e+00	6.748185e+00	ZBTB16
+GO_Biological_Process_2023	Apoptotic Process (GO:0006915)	1/228	2.319123e-01	3.134469e-01	0	0	3.954746e+00	5.779449e+00	ZBTB16
+GO_Biological_Process_2023	Positive Regulation Of Developmental Process (GO:0051094)	1/233	2.363698e-01	3.134469e-01	0	0	3.868534e+00	5.579810e+00	ZBTB16
+GO_Biological_Process_2023	Central Nervous System Development (GO:0007417)	1/283	2.796049e-01	3.492878e-01	0	0	3.174565e+00	4.045594e+00	ZBTB16
+GO_Biological_Process_2023	Positive Regulation Of Cell Differentiation (GO:0045597)	1/283	2.796049e-01	3.492878e-01	0	0	3.174565e+00	4.045594e+00	ZBTB16
+GO_Biological_Process_2023	DNA Metabolic Process (GO:0006259)	1/288	2.837973e-01	3.492878e-01	0	0	3.118467e+00	3.927694e+00	TREX1
+GO_Biological_Process_2023	DNA Repair (GO:0006281)	1/291	2.863015e-01	3.492878e-01	0	0	3.085737e+00	3.859361e+00	TREX1
+GO_Biological_Process_2023	Proteolysis (GO:0006508)	1/330	3.181035e-01	3.804767e-01	0	0	2.714562e+00	3.109201e+00	NAPSA
+GO_Biological_Process_2023	DNA Damage Response (GO:0006974)	1/384	3.599067e-01	4.168208e-01	0	0	2.325421e+00	2.376372e+00	TREX1
+GO_Biological_Process_2023	Positive Regulation Of Multicellular Organismal Process (GO:0051240)	1/387	3.621557e-01	4.168208e-01	0	0	2.306995e+00	2.343171e+00	ZBTB16
+GO_Biological_Process_2023	Nervous System Development (GO:0007399)	1/433	3.957085e-01	4.470040e-01	0	0	2.056503e+00	1.906537e+00	ZBTB16
+GO_Biological_Process_2023	Negative Regulation Of Nucleic Acid-Templated Transcription (GO:1903507)	1/456	4.118451e-01	4.567737e-01	0	0	1.950250e+00	1.730082e+00	ZBTB16
+GO_Biological_Process_2023	Positive Regulation Of Nucleic Acid-Templated Transcription (GO:1903508)	1/557	4.779543e-01	5.206288e-01	0	0	1.587721e+00	1.172119e+00	ZBTB16
+GO_Biological_Process_2023	Negative Regulation Of Transcription By RNA Polymerase II (GO:0000122)	1/763	5.914438e-01	6.329487e-01	0	0	1.146206e+00	6.019744e-01	ZBTB16
+GO_Biological_Process_2023	Negative Regulation Of DNA-templated Transcription (GO:0045892)	1/1025	7.020143e-01	7.383254e-01	0	0	8.413086e-01	2.976563e-01	ZBTB16
+GO_Biological_Process_2023	Positive Regulation Of DNA-templated Transcription (GO:0045893)	1/1243	7.715951e-01	7.977509e-01	0	0	6.856610e-01	1.777887e-01	ZBTB16
+GO_Biological_Process_2023	Regulation Of DNA-templated Transcription (GO:0006355)	1/1922	9.022334e-01	9.146086e-01	0	0	4.272396e-01	4.395526e-02	ZBTB16
+GO_Biological_Process_2023	Regulation Of Transcription By RNA Polymerase II (GO:0006357)	1/2028	9.146086e-01	9.146086e-01	0	0	4.025205e-01	3.592862e-02	ZBTB16

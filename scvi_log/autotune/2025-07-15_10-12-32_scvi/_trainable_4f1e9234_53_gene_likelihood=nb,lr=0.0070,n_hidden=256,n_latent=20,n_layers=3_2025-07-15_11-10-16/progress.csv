@@ -1,0 +1,2 @@
+validation_loss,timestamp,checkpoint_dir_name,done,training_iteration,trial_id,date,time_this_iter_s,time_total_s,pid,hostname,node_ip,time_since_restore,iterations_since_restore
+3774.754638671875,1752574247,,True,1,4f1e9234,2025-07-15_11-10-47,10.45425796508789,10.45425796508789,37134,sapien-desktop,192.168.1.136,10.45425796508789,1

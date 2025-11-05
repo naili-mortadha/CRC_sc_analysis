@@ -1,0 +1,43 @@
+Cell_Type,location,Normal,Tumor
+B Cells,Left,2266,3365
+B Cells,Right,1487,3656
+CD4+ T Cells,Left,3915,5789
+CD4+ T Cells,Right,1509,6144
+CD8+ T cells,Left,1134,2649
+CD8+ T cells,Right,487,2406
+CMS2,Left,16,785
+CMS2,Right,15,976
+CMS3,Left,628,1313
+CMS3,Right,350,1585
+Dendritic cells,Left,31,1364
+Dendritic cells,Right,13,697
+Enteric glia cells,Left,16,9
+Enteric glia cells,Right,13,11
+Follicular helper T cells,Left,247,276
+Follicular helper T cells,Right,540,423
+Gamma delta T cells,Left,513,348
+Gamma delta T cells,Right,60,415
+Helper 17 T cells,Left,102,1809
+Helper 17 T cells,Right,8,458
+Mast cells,Left,11,241
+Mast cells,Right,3,387
+Mature Enterocytes type 2,Left,110,47
+Mature Enterocytes type 2,Right,11,158
+NK cells,Left,189,652
+NK cells,Right,122,357
+Pericytes,Left,10,196
+Pericytes,Right,13,238
+Plasma Cells,Left,36,134
+Plasma Cells,Right,5,65
+Plasmacytoid Dendritic Cells,Left,2,60
+Plasmacytoid Dendritic Cells,Right,1,26
+Regulatory T Cells,Left,179,2385
+Regulatory T Cells,Right,192,1151
+Spp1+,Left,15,791
+Spp1+,Right,7,821
+Stromal 2,Left,33,405
+Stromal 2,Right,15,444
+Stromal 3,Left,30,8
+Stromal 3,Right,12,15
+Tip-like ECs,Left,13,222
+Tip-like ECs,Right,16,359

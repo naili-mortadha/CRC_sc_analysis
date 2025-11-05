@@ -1,0 +1,19 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Basal cell carcinoma	1/63	3.106392e-02	1.058166e-01	0	0	3.571326e+01	1.239860e+02	BMP4
+KEGG_2021_Human	p53 signaling pathway	1/73	3.591403e-02	1.058166e-01	0	0	3.073765e+01	1.022527e+02	SERPINB5
+KEGG_2021_Human	PPAR signaling pathway	1/74	3.639784e-02	1.058166e-01	0	0	3.031507e+01	1.004413e+02	FABP6
+KEGG_2021_Human	TGF-beta signaling pathway	1/94	4.602822e-02	1.058166e-01	0	0	2.377180e+01	7.318151e+01	BMP4
+KEGG_2021_Human	Leukocyte transendothelial migration	1/114	5.557189e-02	1.058166e-01	0	0	1.954474e+01	5.648582e+01	CLDN2
+KEGG_2021_Human	Thyroid hormone signaling pathway	1/121	5.889182e-02	1.058166e-01	0	0	1.839815e+01	5.210453e+01	BMP4
+KEGG_2021_Human	Fluid shear stress and atherosclerosis	1/139	6.738061e-02	1.058166e-01	0	0	1.598390e+01	4.311493e+01	BMP4
+KEGG_2021_Human	Signaling pathways regulating pluripotency of stem cells	1/143	6.925762e-02	1.058166e-01	0	0	1.553052e+01	4.146527e+01	BMP4
+KEGG_2021_Human	Cell adhesion molecules	1/148	7.159910e-02	1.058166e-01	0	0	1.499849e+01	3.954611e+01	CLDN2
+KEGG_2021_Human	Gastric cancer	1/149	7.206676e-02	1.058166e-01	0	0	1.489640e+01	3.917994e+01	REG4
+KEGG_2021_Human	Hepatitis C	1/157	7.580042e-02	1.058166e-01	0	0	1.412678e+01	3.644217e+01	CLDN2
+KEGG_2021_Human	Hippo signaling pathway	1/163	7.859178e-02	1.058166e-01	0	0	1.359945e+01	3.459004e+01	BMP4
+KEGG_2021_Human	Tight junction	1/169	8.137556e-02	1.058166e-01	0	0	1.310979e+01	3.288827e+01	CLDN2
+KEGG_2021_Human	Protein processing in endoplasmic reticulum	1/171	8.230180e-02	1.058166e-01	0	0	1.295425e+01	3.235145e+01	WFS1
+KEGG_2021_Human	Pathogenic Escherichia coli infection	1/197	9.426668e-02	1.131200e-01	0	0	1.122109e+01	2.650003e+01	CLDN2
+KEGG_2021_Human	Cytokine-cytokine receptor interaction	1/295	1.381137e-01	1.531627e-01	0	0	7.443689e+00	1.473611e+01	BMP4
+KEGG_2021_Human	MicroRNAs in cancer	1/310	1.446537e-01	1.531627e-01	0	0	7.076951e+00	1.368267e+01	SERPINB5
+KEGG_2021_Human	Pathways in cancer	1/531	2.359706e-01	2.359706e-01	0	0	4.079665e+00	5.891232e+00	BMP4

@@ -1,0 +1,22 @@
+Cell_Type,Up_Total,Down_Total,Up_Unique_Terms,Down_Unique_Terms,Shared_Terms,Up_Only_Terms,Down_Only_Terms
+CD4+ T Cells,0,0,0,0,0,0,0
+Dendritic cells,164,0,164,0,0,164,0
+Follicular helper T cells,0,0,0,0,0,0,0
+Plasmacytoid Dendritic Cells,0,0,0,0,0,0,0
+Stromal 3,90,2,90,2,0,90,2
+Plasma Cells,0,37,0,37,0,0,37
+NK cells,0,0,0,0,0,0,0
+Mature Enterocytes type 2,46,0,46,0,0,46,0
+Helper 17 T cells,0,0,0,0,0,0,0
+Gamma delta T cells,0,0,0,0,0,0,0
+Pericytes,0,11,0,11,0,0,11
+CMS3,115,27,115,27,0,115,27
+Regulatory T Cells,0,0,0,0,0,0,0
+CMS2,0,4,0,4,0,0,4
+Stromal 2,29,2,29,2,0,29,2
+Mast cells,8,0,8,0,0,8,0
+Spp1+,53,0,53,0,0,53,0
+B Cells,0,0,0,0,0,0,0
+CD8+ T cells,0,0,0,0,0,0,0
+Tip-like ECs,34,10,34,10,0,34,10
+Enteric glia cells,120,5,120,5,0,120,5

@@ -1,0 +1,28 @@
+# Large data files
+*.h5ad
+*.h5
+*.rds
+*.RData
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.bed
+*.mtx
+*.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+*.egg-info/
+venv/
+env/
+
+
+
+# System files
+.DS_Store
+*~
+.Trash-*

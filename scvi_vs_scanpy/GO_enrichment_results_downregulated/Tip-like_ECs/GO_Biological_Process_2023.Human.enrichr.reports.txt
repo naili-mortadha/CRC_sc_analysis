@@ -1,0 +1,123 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2023	Negative Regulation Of Execution Phase Of Apoptosis (GO:1900118)	3/19	1.649703e-06	2.012638e-04	0	0	1.701051e+02	2.264935e+03	MTRNR2L12;MTRNR2L8;MTRNR2L1
+GO_Biological_Process_2023	Regulation Of Execution Phase Of Apoptosis (GO:1900117)	3/24	3.431662e-06	2.093314e-04	0	0	1.295714e+02	1.630328e+03	MTRNR2L12;MTRNR2L8;MTRNR2L1
+GO_Biological_Process_2023	Negative Regulation Of Immune Response (GO:0050777)	2/66	3.063747e-03	7.165971e-02	0	0	2.705299e+01	1.565859e+02	TREX1;HLA-G
+GO_Biological_Process_2023	Protection From Natural Killer Cell Mediated Cytotoxicity (GO:0042270)	1/5	6.234939e-03	7.165971e-02	0	0	2.080312e+02	1.056297e+03	HLA-G
+GO_Biological_Process_2023	Regulation Of T Cell Tolerance Induction (GO:0002664)	1/6	7.477447e-03	7.165971e-02	0	0	1.664167e+02	8.147533e+02	HLA-G
+GO_Biological_Process_2023	Regulation Of Natural Killer Cell Cytokine Production (GO:0002727)	1/6	7.477447e-03	7.165971e-02	0	0	1.664167e+02	8.147533e+02	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Natural Killer Cell Cytokine Production (GO:0002729)	1/6	7.477447e-03	7.165971e-02	0	0	1.664167e+02	8.147533e+02	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of T Cell Mediated Cytotoxicity (GO:0001915)	1/7	8.718464e-03	7.165971e-02	0	0	1.386736e+02	6.576336e+02	HLA-G
+GO_Biological_Process_2023	Immune Response-Inhibiting Cell Surface Receptor Signaling Pathway (GO:0002767)	1/8	9.957992e-03	7.165971e-02	0	0	1.188571e+02	5.478577e+02	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Macrophage Cytokine Production (GO:0060907)	1/8	9.957992e-03	7.165971e-02	0	0	1.188571e+02	5.478577e+02	HLA-G
+GO_Biological_Process_2023	Surfactant Homeostasis (GO:0043129)	1/10	1.243259e-02	7.165971e-02	0	0	9.243519e+01	4.055533e+02	NAPSA
+GO_Biological_Process_2023	Regulation Of Dendritic Cell Differentiation (GO:2001198)	1/10	1.243259e-02	7.165971e-02	0	0	9.243519e+01	4.055533e+02	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Cellular Senescence (GO:2000774)	1/10	1.243259e-02	7.165971e-02	0	0	9.243519e+01	4.055533e+02	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Natural Killer Cell Mediated Immunity (GO:0002716)	1/10	1.243259e-02	7.165971e-02	0	0	9.243519e+01	4.055533e+02	HLA-G
+GO_Biological_Process_2023	Regulation Of Macrophage Cytokine Production (GO:0010935)	1/13	1.613335e-02	7.165971e-02	0	0	6.931597e+01	2.860578e+02	HLA-G
+GO_Biological_Process_2023	Immune Response-Regulating Cell Surface Receptor Signaling Pathway (GO:0002768)	1/13	1.613335e-02	7.165971e-02	0	0	6.931597e+01	2.860578e+02	HLA-G
+GO_Biological_Process_2023	Antigen Processing And Presentation Of Endogenous Peptide Antigen Via MHC Class I Via ER Pathway (GO:0002484)	1/13	1.613335e-02	7.165971e-02	0	0	6.931597e+01	2.860578e+02	HLA-G
+GO_Biological_Process_2023	Antigen Processing And Presentation Of Endogenous Peptide Antigen Via MHC Class I Via ER Pathway, TAP-independent (GO:0002486)	1/13	1.613335e-02	7.165971e-02	0	0	6.931597e+01	2.860578e+02	HLA-G
+GO_Biological_Process_2023	Antigen Processing And Presentation Of Endogenous Peptide Antigen Via MHC Class Ib (GO:0002476)	1/13	1.613335e-02	7.165971e-02	0	0	6.931597e+01	2.860578e+02	HLA-G
+GO_Biological_Process_2023	Antigen Processing And Presentation Of Peptide Antigen Via MHC Class Ib (GO:0002428)	1/13	1.613335e-02	7.165971e-02	0	0	6.931597e+01	2.860578e+02	HLA-G
+GO_Biological_Process_2023	Peptide Antigen Assembly With MHC Class II Protein Complex (GO:0002503)	1/14	1.736398e-02	7.165971e-02	0	0	6.398077e+01	2.593369e+02	HLA-DRB5
+GO_Biological_Process_2023	Protein Homotrimerization (GO:0070207)	1/14	1.736398e-02	7.165971e-02	0	0	6.398077e+01	2.593369e+02	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Leukocyte Mediated Cytotoxicity (GO:0001911)	1/14	1.736398e-02	7.165971e-02	0	0	6.398077e+01	2.593369e+02	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of T Cell Mediated Immunity (GO:0002710)	1/14	1.736398e-02	7.165971e-02	0	0	6.398077e+01	2.593369e+02	HLA-G
+GO_Biological_Process_2023	MHC Class II Protein Complex Assembly (GO:0002399)	1/14	1.736398e-02	7.165971e-02	0	0	6.398077e+01	2.593369e+02	HLA-DRB5
+GO_Biological_Process_2023	Protein Trimerization (GO:0070206)	1/14	1.736398e-02	7.165971e-02	0	0	6.398077e+01	2.593369e+02	HLA-G
+GO_Biological_Process_2023	B Cell Mediated Immunity (GO:0019724)	1/15	1.859313e-02	7.165971e-02	0	0	5.940774e+01	2.367377e+02	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Isotype Switching (GO:0045830)	1/15	1.859313e-02	7.165971e-02	0	0	5.940774e+01	2.367377e+02	TNFSF13
+GO_Biological_Process_2023	Ganglioside Biosynthetic Process (GO:0001574)	1/15	1.859313e-02	7.165971e-02	0	0	5.940774e+01	2.367377e+02	ST8SIA6
+GO_Biological_Process_2023	Positive Regulation Of Endothelial Cell Apoptotic Process (GO:2000353)	1/15	1.859313e-02	7.165971e-02	0	0	5.940774e+01	2.367377e+02	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Natural Killer Cell Mediated Cytotoxicity (GO:0045953)	1/16	1.982080e-02	7.165971e-02	0	0	5.544444e+01	2.173990e+02	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Myeloid Leukocyte Cytokine Production Involved In Immune Response (GO:0061081)	1/16	1.982080e-02	7.165971e-02	0	0	5.544444e+01	2.173990e+02	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Regulatory T Cell Differentiation (GO:0045591)	1/17	2.104700e-02	7.165971e-02	0	0	5.197656e+01	2.006814e+02	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Apoptotic Process (GO:0043066)	3/482	2.158499e-02	7.165971e-02	0	0	5.550199e+00	2.128922e+01	MTRNR2L12;MTRNR2L8;MTRNR2L1
+GO_Biological_Process_2023	Peptide Antigen Assembly With MHC Protein Complex (GO:0002501)	1/18	2.227173e-02	7.165971e-02	0	0	4.891667e+01	1.861004e+02	HLA-DRB5
+GO_Biological_Process_2023	DNA Catabolic Process (GO:0006308)	1/19	2.349499e-02	7.165971e-02	0	0	4.619676e+01	1.732826e+02	TREX1
+GO_Biological_Process_2023	Immunoglobulin Production Involved In Immunoglobulin-Mediated Immune Response (GO:0002381)	1/19	2.349499e-02	7.165971e-02	0	0	4.619676e+01	1.732826e+02	HLA-DRB5
+GO_Biological_Process_2023	Ganglioside Metabolic Process (GO:0001573)	1/19	2.349499e-02	7.165971e-02	0	0	4.619676e+01	1.732826e+02	ST8SIA6
+GO_Biological_Process_2023	N-glycan Processing (GO:0006491)	1/19	2.349499e-02	7.165971e-02	0	0	4.619676e+01	1.732826e+02	ST8SIA6
+GO_Biological_Process_2023	Glycosphingolipid Biosynthetic Process (GO:0006688)	1/19	2.349499e-02	7.165971e-02	0	0	4.619676e+01	1.732826e+02	ST8SIA6
+GO_Biological_Process_2023	Antigen Processing And Presentation Of Endogenous Peptide Antigen (GO:0002483)	1/21	2.593709e-02	7.717867e-02	0	0	4.157292e+01	1.518277e+02	HLA-G
+GO_Biological_Process_2023	Regulation Of Regulatory T Cell Differentiation (GO:0045589)	1/22	2.715595e-02	7.888156e-02	0	0	3.959127e+01	1.427724e+02	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Epithelial Cell Apoptotic Process (GO:1904037)	1/23	2.837334e-02	8.050110e-02	0	0	3.778977e+01	1.346187e+02	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Natural Killer Cell Mediated Immunity (GO:0002717)	1/24	2.958927e-02	8.169685e-02	0	0	3.614493e+01	1.272426e+02	HLA-G
+GO_Biological_Process_2023	Carbohydrate Biosynthetic Process (GO:0016051)	1/25	3.080373e-02	8.169685e-02	0	0	3.463715e+01	1.205414e+02	ST8SIA6
+GO_Biological_Process_2023	Mismatch Repair (GO:0006298)	1/25	3.080373e-02	8.169685e-02	0	0	3.463715e+01	1.205414e+02	TREX1
+GO_Biological_Process_2023	Antigen Processing And Presentation Of Exogenous Peptide Antigen Via MHC Class II (GO:0019886)	1/26	3.201674e-02	8.271025e-02	0	0	3.325000e+01	1.144298e+02	HLA-DRB5
+GO_Biological_Process_2023	Positive Regulation Of Immune System Process (GO:0002684)	1/27	3.322829e-02	8.271025e-02	0	0	3.196955e+01	1.088357e+02	HLA-G
+GO_Biological_Process_2023	Antigen Processing And Presentation Of Peptide Antigen Via MHC Class II (GO:0002495)	1/28	3.443838e-02	8.271025e-02	0	0	3.078395e+01	1.036983e+02	HLA-DRB5
+GO_Biological_Process_2023	Carbohydrate Derivative Biosynthetic Process (GO:1901137)	1/29	3.564703e-02	8.271025e-02	0	0	2.968304e+01	9.896590e+01	ST8SIA6
+GO_Biological_Process_2023	Immunoglobulin Mediated Immune Response (GO:0016064)	1/30	3.685421e-02	8.271025e-02	0	0	2.865805e+01	9.459406e+01	HLA-DRB5
+GO_Biological_Process_2023	Nucleic Acid Metabolic Process (GO:0090304)	1/30	3.685421e-02	8.271025e-02	0	0	2.865805e+01	9.459406e+01	TREX1
+GO_Biological_Process_2023	Antigen Processing And Presentation Of Exogenous Peptide Antigen (GO:0002478)	1/31	3.805995e-02	8.271025e-02	0	0	2.770139e+01	9.054456e+01	HLA-DRB5
+GO_Biological_Process_2023	Regulation Of Natural Killer Cell Mediated Cytotoxicity (GO:0042269)	1/32	3.926424e-02	8.271025e-02	0	0	2.680645e+01	8.678431e+01	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of T Cell Mediated Cytotoxicity (GO:0001916)	1/33	4.046708e-02	8.271025e-02	0	0	2.596745e+01	8.328453e+01	HLA-G
+GO_Biological_Process_2023	Regulation Of G0 To G1 Transition (GO:0070316)	1/33	4.046708e-02	8.271025e-02	0	0	2.596745e+01	8.328453e+01	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Interleukin-12 Production (GO:0032735)	1/33	4.046708e-02	8.271025e-02	0	0	2.596745e+01	8.328453e+01	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Cytokine Production Involved In Immune Response (GO:0002720)	1/33	4.046708e-02	8.271025e-02	0	0	2.596745e+01	8.328453e+01	HLA-G
+GO_Biological_Process_2023	Glycolipid Metabolic Process (GO:0006664)	1/33	4.046708e-02	8.271025e-02	0	0	2.596745e+01	8.328453e+01	ST8SIA6
+GO_Biological_Process_2023	Membrane Protein Proteolysis (GO:0033619)	1/34	4.166847e-02	8.271025e-02	0	0	2.517929e+01	8.002006e+01	NAPSA
+GO_Biological_Process_2023	Negative Regulation Of Cell Cycle Process (GO:0010948)	1/34	4.166847e-02	8.271025e-02	0	0	2.517929e+01	8.002006e+01	HLA-G
+GO_Biological_Process_2023	Regulation Of Cellular Senescence (GO:2000772)	1/35	4.286843e-02	8.271025e-02	0	0	2.443750e+01	7.696883e+01	HLA-G
+GO_Biological_Process_2023	Regulation Of T Cell Mediated Cytotoxicity (GO:0001914)	1/36	4.406693e-02	8.271025e-02	0	0	2.373810e+01	7.411141e+01	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of T Cell Proliferation (GO:0042130)	1/36	4.406693e-02	8.271025e-02	0	0	2.373810e+01	7.411141e+01	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Protein Kinase B Signaling (GO:0051898)	1/36	4.406693e-02	8.271025e-02	0	0	2.373810e+01	7.411141e+01	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Lymphocyte Proliferation (GO:0050672)	1/39	4.765382e-02	8.808737e-02	0	0	2.186075e+01	6.653957e+01	HLA-G
+GO_Biological_Process_2023	DNA Recombination (GO:0006310)	1/42	5.122779e-02	8.837297e-02	0	0	2.025813e+01	6.019649e+01	TREX1
+GO_Biological_Process_2023	Ceramide Biosynthetic Process (GO:0046513)	1/42	5.122779e-02	8.837297e-02	0	0	2.025813e+01	6.019649e+01	ST8SIA6
+GO_Biological_Process_2023	Positive Regulation Of T Cell Mediated Immunity (GO:0002711)	1/43	5.241625e-02	8.837297e-02	0	0	1.977480e+01	5.830677e+01	HLA-G
+GO_Biological_Process_2023	Regulation Of Endothelial Cell Apoptotic Process (GO:2000351)	1/43	5.241625e-02	8.837297e-02	0	0	1.977480e+01	5.830677e+01	HLA-G
+GO_Biological_Process_2023	Glycolipid Biosynthetic Process (GO:0009247)	1/43	5.241625e-02	8.837297e-02	0	0	1.977480e+01	5.830677e+01	ST8SIA6
+GO_Biological_Process_2023	Negative Regulation Of Immune System Process (GO:0002683)	1/44	5.360328e-02	8.837297e-02	0	0	1.931395e+01	5.651543e+01	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Leukocyte Cell-Cell Adhesion (GO:1903039)	1/44	5.360328e-02	8.837297e-02	0	0	1.931395e+01	5.651543e+01	HLA-DRB5
+GO_Biological_Process_2023	Nucleobase-Containing Compound Catabolic Process (GO:0034655)	1/44	5.360328e-02	8.837297e-02	0	0	1.931395e+01	5.651543e+01	TREX1
+GO_Biological_Process_2023	Negative Regulation Of Response To Biotic Stimulus (GO:0002832)	1/45	5.478888e-02	8.912324e-02	0	0	1.887405e+01	5.481531e+01	TREX1
+GO_Biological_Process_2023	B Cell Receptor Signaling Pathway (GO:0050853)	1/46	5.597305e-02	8.985148e-02	0	0	1.845370e+01	5.319990e+01	BMX
+GO_Biological_Process_2023	Positive Regulation Of Lymphocyte Activation (GO:0051251)	1/47	5.715580e-02	9.009026e-02	0	0	1.805163e+01	5.166330e+01	HLA-DRB5
+GO_Biological_Process_2023	Oligosaccharide Metabolic Process (GO:0009311)	1/48	5.833713e-02	9.009026e-02	0	0	1.766667e+01	5.020012e+01	ST8SIA6
+GO_Biological_Process_2023	Cellular Defense Response (GO:0006968)	1/48	5.833713e-02	9.009026e-02	0	0	1.766667e+01	5.020012e+01	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of T Cell Activation (GO:0050868)	1/49	5.951704e-02	9.076349e-02	0	0	1.729774e+01	4.880545e+01	HLA-G
+GO_Biological_Process_2023	Regulation Of Interleukin-12 Production (GO:0032655)	1/50	6.069553e-02	9.141796e-02	0	0	1.694388e+01	4.747480e+01	HLA-G
+GO_Biological_Process_2023	Positive Regulation Of Leukocyte Mediated Cytotoxicity (GO:0001912)	1/51	6.187260e-02	9.157008e-02	0	0	1.660417e+01	4.620405e+01	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Response To Stimulus (GO:0048585)	1/52	6.304826e-02	9.157008e-02	0	0	1.627778e+01	4.498942e+01	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Innate Immune Response (GO:0045824)	1/52	6.304826e-02	9.157008e-02	0	0	1.627778e+01	4.498942e+01	TREX1
+GO_Biological_Process_2023	Glycoprotein Metabolic Process (GO:0009100)	1/53	6.422250e-02	9.217817e-02	0	0	1.596394e+01	4.382743e+01	ST8SIA6
+GO_Biological_Process_2023	Positive Regulation Of Cellular Metabolic Process (GO:0031325)	1/56	6.773675e-02	9.609166e-02	0	0	1.509091e+01	4.062664e+01	HLA-G
+GO_Biological_Process_2023	Membrane Lipid Biosynthetic Process (GO:0046467)	1/57	6.890534e-02	9.662589e-02	0	0	1.482068e+01	3.964565e+01	ST8SIA6
+GO_Biological_Process_2023	Regulation Of T Cell Activation (GO:0050863)	1/62	7.472728e-02	1.035992e-01	0	0	1.360246e+01	3.528356e+01	HLA-DRB5
+GO_Biological_Process_2023	Phosphatidylinositol Metabolic Process (GO:0046488)	1/63	7.588746e-02	1.040255e-01	0	0	1.338239e+01	3.450655e+01	BMX
+GO_Biological_Process_2023	Positive Regulation Of T Cell Differentiation (GO:0045582)	1/64	7.704625e-02	1.044405e-01	0	0	1.316931e+01	3.375755e+01	HLA-G
+GO_Biological_Process_2023	DNA Replication (GO:0006260)	1/73	8.741277e-02	1.171907e-01	0	0	1.151794e+01	2.807053e+01	TREX1
+GO_Biological_Process_2023	Regulation Of T Cell Proliferation (GO:0042129)	1/77	9.198414e-02	1.193837e-01	0	0	1.090954e+01	2.603168e+01	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Blood Vessel Morphogenesis (GO:2000181)	1/77	9.198414e-02	1.193837e-01	0	0	1.090954e+01	2.603168e+01	HLA-G
+GO_Biological_Process_2023	Regulation Of Immune Response (GO:0050776)	1/77	9.198414e-02	1.193837e-01	0	0	1.090954e+01	2.603168e+01	HLA-G
+GO_Biological_Process_2023	Regulation Of Innate Immune Response (GO:0045088)	1/78	9.312355e-02	1.195902e-01	0	0	1.076732e+01	2.555976e+01	TREX1
+GO_Biological_Process_2023	Glycoprotein Biosynthetic Process (GO:0009101)	1/80	9.539824e-02	1.212353e-01	0	0	1.049367e+01	2.465693e+01	ST8SIA6
+GO_Biological_Process_2023	Macromolecule Catabolic Process (GO:0009057)	1/85	1.010610e-01	1.271077e-01	0	0	9.866567e+00	2.261447e+01	TREX1
+GO_Biological_Process_2023	Negative Regulation Of Angiogenesis (GO:0016525)	1/86	1.021895e-01	1.272155e-01	0	0	9.750000e+00	2.223903e+01	HLA-G
+GO_Biological_Process_2023	Protein O-linked Glycosylation (GO:0006493)	1/93	1.100508e-01	1.356181e-01	0	0	9.004982e+00	1.987231e+01	ST8SIA6
+GO_Biological_Process_2023	Positive Regulation Of T Cell Activation (GO:0050870)	1/107	1.255756e-01	1.530127e-01	0	0	7.810142e+00	1.620485e+01	HLA-DRB5
+GO_Biological_Process_2023	Glycerophospholipid Biosynthetic Process (GO:0046474)	1/108	1.266745e-01	1.530127e-01	0	0	7.736760e+00	1.598519e+01	BMX
+GO_Biological_Process_2023	Negative Regulation Of Defense Response (GO:0031348)	1/112	1.310569e-01	1.567543e-01	0	0	7.456456e+00	1.515244e+01	TREX1
+GO_Biological_Process_2023	Protein Homooligomerization (GO:0051260)	1/129	1.494476e-01	1.770156e-01	0	0	6.460612e+00	1.228039e+01	HLA-G
+GO_Biological_Process_2023	Antigen Receptor-Mediated Signaling Pathway (GO:0050851)	1/134	1.547852e-01	1.815749e-01	0	0	6.216165e+00	1.159761e+01	BMX
+GO_Biological_Process_2023	Regulation Of Protein Kinase B Signaling (GO:0051896)	1/136	1.569112e-01	1.823158e-01	0	0	6.123457e+00	1.134110e+01	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Response To External Stimulus (GO:0032102)	1/146	1.674644e-01	1.921360e-01	0	0	5.698276e+00	1.018273e+01	TREX1
+GO_Biological_Process_2023	Protein Glycosylation (GO:0006486)	1/147	1.685127e-01	1.921360e-01	0	0	5.658961e+00	1.007716e+01	ST8SIA6
+GO_Biological_Process_2023	Protein Autophosphorylation (GO:0046777)	1/162	1.840863e-01	2.079493e-01	0	0	5.127847e+00	8.678115e+00	BMX
+GO_Biological_Process_2023	Protein Modification Process (GO:0036211)	2/711	2.225814e-01	2.491278e-01	0	0	2.362912e+00	3.550186e+00	ST8SIA6;BMX
+GO_Biological_Process_2023	Regulation Of Angiogenesis (GO:0045765)	1/205	2.271940e-01	2.519788e-01	0	0	4.038194e+00	5.984407e+00	HLA-G
+GO_Biological_Process_2023	Negative Regulation Of Intracellular Signal Transduction (GO:1902532)	1/231	2.521892e-01	2.771809e-01	0	0	3.576993e+00	4.927578e+00	HLA-G
+GO_Biological_Process_2023	DNA Metabolic Process (GO:0006259)	1/288	3.042993e-01	3.313899e-01	0	0	2.858304e+00	3.400649e+00	TREX1
+GO_Biological_Process_2023	DNA Repair (GO:0006281)	1/291	3.069431e-01	3.313899e-01	0	0	2.828305e+00	3.340491e+00	TREX1
+GO_Biological_Process_2023	Positive Regulation Of Cytokine Production (GO:0001819)	1/320	3.320072e-01	3.553059e-01	0	0	2.567398e+00	2.830810e+00	HLA-G
+GO_Biological_Process_2023	Proteolysis (GO:0006508)	1/330	3.404464e-01	3.611692e-01	0	0	2.488095e+00	2.680916e+00	NAPSA
+GO_Biological_Process_2023	DNA Damage Response (GO:0006974)	1/384	3.842787e-01	4.031526e-01	0	0	2.131419e+00	2.038462e+00	TREX1
+GO_Biological_Process_2023	Positive Regulation Of Multicellular Organismal Process (GO:0051240)	1/387	3.866299e-01	4.031526e-01	0	0	2.114529e+00	2.009410e+00	HLA-G
+GO_Biological_Process_2023	Phosphorylation (GO:0016310)	1/429	4.186562e-01	4.328479e-01	0	0	1.902940e+00	1.656900e+00	BMX
+GO_Biological_Process_2023	Positive Regulation Of Cell Population Proliferation (GO:0008284)	1/483	4.574799e-01	4.690130e-01	0	0	1.685080e+00	1.317770e+00	TNFSF13
+GO_Biological_Process_2023	Protein Phosphorylation (GO:0006468)	1/500	4.691782e-01	4.769978e-01	0	0	1.626253e+00	1.230703e+00	BMX
+GO_Biological_Process_2023	Positive Regulation Of Cellular Process (GO:0048522)	1/594	5.296167e-01	5.339937e-01	0	0	1.361861e+00	8.656009e-01	TNFSF13
+GO_Biological_Process_2023	Regulation Of Cell Population Proliferation (GO:0042127)	1/766	6.235289e-01	6.235289e-01	0	0	1.046296e+00	4.942287e-01	TNFSF13

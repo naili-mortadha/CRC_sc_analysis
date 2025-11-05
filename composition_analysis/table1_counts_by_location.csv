@@ -1,0 +1,23 @@
+Cell_Type,Left,Right,All
+B Cells,5631,5143,10774
+CD4+ T Cells,9704,7653,17357
+CD8+ T cells,3783,2893,6676
+CMS2,801,991,1792
+CMS3,1941,1935,3876
+Dendritic cells,1395,710,2105
+Enteric glia cells,25,24,49
+Follicular helper T cells,523,963,1486
+Gamma delta T cells,861,475,1336
+Helper 17 T cells,1911,466,2377
+Mast cells,252,390,642
+Mature Enterocytes type 2,157,169,326
+NK cells,841,479,1320
+Pericytes,206,251,457
+Plasma Cells,170,70,240
+Plasmacytoid Dendritic Cells,62,27,89
+Regulatory T Cells,2564,1343,3907
+Spp1+,806,828,1634
+Stromal 2,438,459,897
+Stromal 3,38,27,65
+Tip-like ECs,235,375,610
+All,32344,25671,58015

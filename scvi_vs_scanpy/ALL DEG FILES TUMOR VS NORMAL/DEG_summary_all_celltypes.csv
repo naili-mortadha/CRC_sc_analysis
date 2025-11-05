@@ -1,0 +1,22 @@
+Cell_Type,Total_DEGs,Upregulated_in_Tumor,Downregulated_in_Tumor,Top_Up_Gene,Top_Down_Gene
+CD4+ T Cells,0,0,0,NA,NA
+CMS3,19,10,9,CLDN2,CA7
+Tip-like ECs,29,4,25,ZNF469,MTRNR2L12
+CD8+ T cells,0,0,0,NA,NA
+B Cells,1,0,1,NA,AC233755.1
+Spp1+,146,22,124,ABCF2,MTRNR2L12
+Mast cells,117,24,93,IGLC2,MTRNR2L12
+Stromal 2,31,8,23,ZNF469,MTRNR2L12
+CMS2,21,2,19,UBD,MTRNR2L8
+Regulatory T Cells,0,0,0,NA,NA
+Pericytes,78,26,52,MMP7,MTRNR2L8
+Dendritic cells,177,18,159,CD274,MTRNR2L12
+Gamma delta T cells,0,0,0,NA,NA
+Helper 17 T cells,0,0,0,NA,NA
+Mature Enterocytes type 2,176,61,115,REG1A,AC007952.4
+NK cells,0,0,0,NA,NA
+Plasma Cells,17,2,15,REG1A,TRBV7-9
+Stromal 3,1505,910,595,ATXN7,MTRNR2L12
+Plasmacytoid Dendritic Cells,66,3,63,DUOX1,IGHV5-78
+Follicular helper T cells,0,0,0,NA,NA
+Enteric glia cells,112,62,50,GREM1,MTRNR2L8

@@ -1,0 +1,22 @@
+Cell_Type,Downregulated_Genes,Total_Terms_Found,Significant_Terms,GO_Terms,GO_Significant,KEGG_Terms,KEGG_Significant
+Plasma Cells,15,139,37,120,37,19,0
+CMS3,9,57,27,52,22,5,5
+Pericytes,52,324,11,269,7,55,4
+Tip-like ECs,25,158,10,122,2,36,8
+Enteric glia cells,50,314,5,283,5,31,0
+CMS2,19,203,4,179,4,24,0
+Stromal 2,23,72,2,61,2,11,0
+Stromal 3,595,1995,2,1800,2,195,0
+Spp1+,124,225,0,169,0,56,0
+Mast cells,93,338,0,268,0,70,0
+Regulatory T Cells,0,0,0,0,0,0,0
+B Cells,1,0,0,0,0,0,0
+Dendritic cells,159,563,0,470,0,93,0
+Gamma delta T cells,0,0,0,0,0,0,0
+Helper 17 T cells,0,0,0,0,0,0,0
+Mature Enterocytes type 2,115,565,0,447,0,118,0
+NK cells,0,0,0,0,0,0,0
+CD8+ T cells,0,0,0,0,0,0,0
+Plasmacytoid Dendritic Cells,0,0,0,0,0,0,0
+Follicular helper T cells,0,0,0,0,0,0,0
+CD4+ T Cells,0,0,0,0,0,0,0

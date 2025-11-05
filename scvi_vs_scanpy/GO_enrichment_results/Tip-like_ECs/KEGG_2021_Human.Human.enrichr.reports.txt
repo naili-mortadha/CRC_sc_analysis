@@ -1,0 +1,8 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+KEGG_2021_Human	Amino sugar and nucleotide sugar metabolism	1/48	9.566110e-03	3.577446e-02	0	0	1.414823e+02	6.578259e+02	GNPNAT1
+KEGG_2021_Human	Lysine degradation	1/63	1.254141e-02	3.577446e-02	0	0	1.071720e+02	4.692763e+02	EZH2
+KEGG_2021_Human	Morphine addiction	1/91	1.807736e-02	3.577446e-02	0	0	7.372593e+01	2.958691e+02	PDE4C
+KEGG_2021_Human	Parathyroid hormone synthesis, secretion and action	1/106	2.103346e-02	3.577446e-02	0	0	6.314603e+01	2.438473e+02	PDE4C
+KEGG_2021_Human	Purine metabolism	1/129	2.555318e-02	3.577446e-02	0	0	5.173958e+01	1.897287e+02	PDE4C
+KEGG_2021_Human	cAMP signaling pathway	1/216	4.250810e-02	4.959279e-02	0	0	3.066822e+01	9.685209e+01	PDE4C
+KEGG_2021_Human	MicroRNAs in cancer	1/310	6.057752e-02	6.057752e-02	0	0	2.123732e+01	5.954588e+01	EZH2
